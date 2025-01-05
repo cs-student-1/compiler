@@ -6,8 +6,8 @@ Der Scanner ist das Programm, welches die
 wandelt sie in [Token](../Token/README.md) um. 
 
 
-**Insbesondere ist er ein <u>endlicher Automat</u> welcher** 
-**<u>reguläre Ausdrücke</u> (=lexikalische Symbole) erkennt.** 
+**Insbesondere ist er ein <ins>endlicher Automat</ins> welcher** 
+**<ins>reguläre Ausdrücke</ins> (=lexikalische Symbole) erkennt.** 
 
 
 ## Symbole identifizieren
