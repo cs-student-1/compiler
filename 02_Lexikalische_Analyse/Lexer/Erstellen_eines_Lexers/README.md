@@ -1,2 +1,0 @@
-Erstellen eines Lexers
-===
