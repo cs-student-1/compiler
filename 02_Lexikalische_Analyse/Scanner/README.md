@@ -7,7 +7,7 @@ wandelt sie in [Token](../Token/README.md) um.
 
 
 **Insbesondere ist er ein <ins>endlicher Automat</ins> welcher** 
-**<ins>reguläre Ausdrücke</ins> (=lexikalische Symbole) erkennt.** 
+**<ins>reguläre Ausdrücke</ins> (=die lexikalischen Symbole) erkennt.** 
 
 
 ## Symbole identifizieren
