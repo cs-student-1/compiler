@@ -9,6 +9,7 @@ and respect the contents of the [LICENSE](LICENSE.md).
 
 - [Einführung](./01_Einführung/README.md)
     - [Compilerphasen](./01_Einführung/Compiler_Phasen/README.md)
+    - [Symboltabelle](./01_Einführung/Symboltabelle/README.md)
 - [Lexikalische Analyse](./02_Lexikalische_Analyse/README.md)
     - [Scanner](./02_Lexikalische_Analyse/Scanner/README.md)
         - [Aufgaben](./02_Lexikalische_Analyse/Scanner/Aufgaben/README.md)
@@ -18,4 +19,9 @@ and respect the contents of the [LICENSE](LICENSE.md).
     - [Token](./02_Lexikalische_Analyse/Token/README.md)
 - [Syntaxanalyse](./03_Syntax_Analyse/README.md)
     - [Bottom-Up-Parsing](./03_Syntax_Analyse/Bottom_Up_Parsing/README.md)
+    - [Fehlerbehandlung](./03_Syntax_Analyse/Fehlerbehandlung/README.md)
+    - [Kontextfreie Grammatiken](./03_Syntax_Analyse/Kontextfreie_Grammatiken/README.md)
+        - [Backus-Naur-Form](./03_Syntax_Analyse/Kontextfreie_Grammatiken/Backus_Naur_Form/README.md)
+        - [Linksableitungen](./03_Syntax_Analyse/Kontextfreie_Grammatiken/Linksableitung/README.md)
+        - [Linksrekursion](./03_Syntax_Analyse/Kontextfreie_Grammatiken/Linksrekursion/README.md)
     - [Top-Down-Parsing](./03_Syntax_Analyse/Top_Down_Parsing/README.md)
